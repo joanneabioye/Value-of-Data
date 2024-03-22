@@ -6,7 +6,7 @@ Data analytics is crucial to the growth and success of a business. It can provid
 ![chart](https://github.com/joanneabioye/Value-of-Data/assets/153685683/ef84f12b-d284-4662-a1b5-58836694d9ab)
 
 
-## Portfolio Index
+## Portfolio Links
 
 1. Value of Data
 
